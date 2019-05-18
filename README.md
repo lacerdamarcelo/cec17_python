@@ -40,3 +40,6 @@ The result is stored in the vector 'f'. If mx==1, only the first element of ‘f
 # This line is going to print 29975432515.940056
 print(f[0])
 ```
+
+## Original implementation (in C)
+N. H. Awad, M. Z. Ali, J. J. Liang, B. Y. Qu and P. N. Suganthan, "Problem Definitions and Evaluation Criteria for the CEC 2017 Special Session and Competition on Single Objective Bound Constrained Real-Parameter Numerical Optimization,"  Technical Report, Nanyang Technological University, Singapore, November 2016
